@@ -18,12 +18,12 @@ Frontend
 Mobile
 * [Phonegap/Cordova Ionic mobile app](https://github.com/TunJS/tunjs-mobile-cordova)
 * [NativeScript mobile app](https://github.com/TunJS/tunjs-mobile-nativescript)
-* [ReactNative mobile app](https://github.com/TunJS/tunjs-mobile-reactnative)
+* ~~[ReactNative mobile app](https://github.com/TunJS/tunjs-mobile-reactnative)~~ (iOS only)
 
 Development workflow will focus on best practices with modular decomposition, tooling, testing, documentation, ...
 
 Features such as 3rd party authentication, push notification, ... will be discussed later.
 
 Code repositories will be public on TunJS's GitHub organisation  (https://github.com/tunjs).
-Tasks will be managed thought GitHub's issue tracker.
+Tasks will be managed thought GitHub's [issue tracker](https://github.com/TunJS/tunjs-docs/issues).
 
